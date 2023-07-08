@@ -12,7 +12,17 @@
 
 [https://smartbrain-1-7ca454388b18.herokuapp.com/](https://smartbrain-1-7ca454388b18.herokuapp.com/)
 
-  
+  <h2>🍰 Contribution Guidelines:</h2>
+
+To fix a bug or enhance an existing module follow these steps: 
+
+*   Fork the repo
+*   Create a new branch (git checkout -b improve-feature)
+*   Make the appropriate changes in the files
+*   Add changes to reflect the changes made
+*   Commit your changes (git commit -m 'Improve feature')
+*   Push to the branch (git push origin improve-feature)
+*   Create a Pull Request
   
 <h2>💻 Built with</h2>
 
